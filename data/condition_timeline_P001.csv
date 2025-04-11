@@ -1,0 +1,12 @@
+date,event_type,description,condition,severity,healthcare_provider
+2019-11-05,Diagnosis,Initial diagnosis of Hypothyroidism,Hypothyroidism,Severe,Dr. Davis
+2020-03-10,Improvement,Noted improvement in Hypothyroidism,Hypothyroidism,Moderate,Dr. Brown
+2020-04-14,Follow-up,Routine follow-up for Hypothyroidism,Hypothyroidism,Moderate,Dr. Williams
+2020-08-31,Follow-up,Routine follow-up for Hypothyroidism,Hypothyroidism,Moderate,Dr. Brown
+2021-01-30,Diagnosis,Initial diagnosis of Hypertension,Hypertension,Severe,Dr. Williams
+2021-03-30,Follow-up,Routine follow-up for Hypertension,Hypertension,Severe,Dr. Miller
+2021-08-04,Improvement,Noted improvement in Hypertension,Hypertension,Moderate,Dr. Brown
+2021-08-26,Diagnosis,Initial diagnosis of Asthma,Asthma,Severe,Dr. Miller
+2021-09-26,Improvement,Noted improvement in Asthma,Asthma,Moderate,Dr. Williams
+2022-03-23,Follow-up,Routine follow-up for Asthma,Asthma,Moderate,Dr. Miller
+2022-07-11,Hospitalization,Hospitalized due to complications from Asthma,Asthma,Severe,Dr. Davis

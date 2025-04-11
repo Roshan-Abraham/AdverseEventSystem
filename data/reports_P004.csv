@@ -1,0 +1,198 @@
+id,patient_id,date,source,report_type,summary,content,nlp_summary,specialist
+R010,P004,2025-04-01,Primary Care,Cardiology Consultation,Routine cardiology consultation performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2025-04-01
+Provider: Dr. Jennifer Smith, Primary Care
+Type: Cardiology Consultation
+
+SUMMARY:
+Routine cardiology consultation performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Blood Pressure: 128/80 mmHg
+- Heart Rate: 80 bpm
+- ECG: Normal sinus rhythm
+- Echocardiogram: Mild left ventricular hypertrophy
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+- Monitor symptoms and report any changes
+
+Report prepared by: Dr. Jennifer Smith
+Date: 2025-04-01",AI Analysis: Patient shows concerning results. Follow-up recommended,Dr. Jennifer Smith
+R009,P004,2025-03-31,Hospital,Radiology Report,Routine radiology report performed. abnormal results detected.,"Patient: James Jones (ID: P004)
+Date: 2025-03-31
+Provider: Dr. Patricia Jones, Hospital
+Type: Radiology Report
+
+SUMMARY:
+Routine radiology report performed. abnormal results detected.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports improvement in symptoms
+- No significant changes since last examination
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+- Maintain healthy diet and exercise
+
+Report prepared by: Dr. Patricia Jones
+Date: 2025-03-31",AI Analysis: Patient shows stable indicators. Consider medication adjustment,Dr. Patricia Jones
+R008,P004,2025-03-09,Lab,Annual Physical,Routine annual physical performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2025-03-09
+Provider: Dr. James Jones, Lab
+Type: Annual Physical
+
+SUMMARY:
+Routine annual physical performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Height: 167.6 cm
+- Weight: 50.2 kg
+- BMI: 17.9
+- Blood Pressure: 146/73 mmHg
+- Heart Rate: 69 bpm
+- Respiratory Rate: 12 breaths/min
+- Temperature: 37.0 °C
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+
+Report prepared by: Dr. James Jones
+Date: 2025-03-09",AI Analysis: Patient shows normal indicators. Consider medication adjustment,Dr. James Jones
+R007,P004,2025-03-07,Lab,Gastroenterology Procedure,Routine gastroenterology procedure performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2025-03-07
+Provider: Dr. John Davis, Lab
+Type: Gastroenterology Procedure
+
+SUMMARY:
+Routine gastroenterology procedure performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports improvement in symptoms
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Adjust medication as prescribed
+
+Report prepared by: Dr. John Davis
+Date: 2025-03-07",AI Analysis: Patient shows stable parameters. Continued monitoring advised,Dr. John Davis
+R006,P004,2025-01-12,Lab,Radiology Report,Routine radiology report performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2025-01-12
+Provider: Dr. Patricia Brown, Lab
+Type: Radiology Report
+
+SUMMARY:
+Routine radiology report performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- Medication adjustment may be necessary
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+
+Report prepared by: Dr. Patricia Brown
+Date: 2025-01-12",AI Analysis: Patient shows normal values. Continued monitoring advised,Dr. Patricia Brown
+R005,P004,2024-12-19,Hospital,Annual Physical,Routine annual physical performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2024-12-19
+Provider: Dr. Patricia Miller, Hospital
+Type: Annual Physical
+
+SUMMARY:
+Routine annual physical performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Height: 167.6 cm
+- Weight: 50.2 kg
+- BMI: 17.9
+- Blood Pressure: 142/82 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 15 breaths/min
+- Temperature: 37.1 °C
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Maintain healthy diet and exercise
+
+Report prepared by: Dr. Patricia Miller
+Date: 2024-12-19",AI Analysis: Patient shows improving values. Continued monitoring advised,Dr. Patricia Miller
+R004,P004,2024-11-24,Hospital,Neurology Assessment,Routine neurology assessment performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2024-11-24
+Provider: Dr. Jennifer Wilson, Hospital
+Type: Neurology Assessment
+
+SUMMARY:
+Routine neurology assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- No significant changes since last examination
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Consider consultation with specialist
+
+Report prepared by: Dr. Jennifer Wilson
+Date: 2024-11-24",AI Analysis: Patient shows concerning values. Follow-up recommended,Dr. Jennifer Wilson
+R003,P004,2024-09-24,Primary Care,Radiology Report,Routine radiology report performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2024-09-24
+Provider: Dr. Robert Brown, Primary Care
+Type: Radiology Report
+
+SUMMARY:
+Routine radiology report performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+- Complete prescribed diagnostic tests
+
+Report prepared by: Dr. Robert Brown
+Date: 2024-09-24",AI Analysis: Patient shows normal values. No immediate action needed,Dr. Robert Brown
+R002,P004,2024-06-26,Primary Care,Radiology Report,Routine radiology report performed. abnormal levels detected.,"Patient: James Jones (ID: P004)
+Date: 2024-06-26
+Provider: Dr. Jennifer Jones, Primary Care
+Type: Radiology Report
+
+SUMMARY:
+Routine radiology report performed. abnormal levels detected.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports no complaints
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+- Consider consultation with specialist
+
+Report prepared by: Dr. Jennifer Jones
+Date: 2024-06-26",AI Analysis: Patient shows concerning results. No immediate action needed,Dr. Jennifer Jones
+R001,P004,2024-06-07,Hospital,Cardiology Consultation,Routine cardiology consultation performed. all results within normal ranges.,"Patient: James Jones (ID: P004)
+Date: 2024-06-07
+Provider: Dr. Linda Williams, Hospital
+Type: Cardiology Consultation
+
+SUMMARY:
+Routine cardiology consultation performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Blood Pressure: 114/75 mmHg
+- Heart Rate: 71 bpm
+- ECG: Left ventricular hypertrophy
+- Echocardiogram: Normal ejection fraction
+
+RECOMMENDATIONS:
+- Adjust medication as prescribed
+- Maintain healthy diet and exercise
+
+Report prepared by: Dr. Linda Williams
+Date: 2024-06-07",AI Analysis: Patient shows normal parameters. Continued monitoring advised,Dr. Linda Williams

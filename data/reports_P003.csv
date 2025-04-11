@@ -1,0 +1,194 @@
+id,patient_id,date,source,report_type,summary,content,nlp_summary,specialist
+R010,P003,2025-02-17,Hospital,Dermatology Examination,Routine dermatology examination performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2025-02-17
+Provider: Dr. Robert Brown, Hospital
+Type: Dermatology Examination
+
+SUMMARY:
+Routine dermatology examination performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- Medication adjustment may be necessary
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Maintain healthy diet and exercise
+
+Report prepared by: Dr. Robert Brown
+Date: 2025-02-17",AI Analysis: Patient shows concerning indicators. Continued monitoring advised,Dr. Robert Brown
+R009,P003,2024-12-17,Primary Care,Orthopedic Evaluation,Routine orthopedic evaluation performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-12-17
+Provider: Dr. Jennifer Smith, Primary Care
+Type: Orthopedic Evaluation
+
+SUMMARY:
+Routine orthopedic evaluation performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports no complaints
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- No further action needed at this time
+- Maintain healthy diet and exercise
+
+Report prepared by: Dr. Jennifer Smith
+Date: 2024-12-17",AI Analysis: Patient shows normal results. Follow-up recommended,Dr. Jennifer Smith
+R008,P003,2024-10-02,Primary Care,Cardiology Consultation,Routine cardiology consultation performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-10-02
+Provider: Dr. Jennifer Williams, Primary Care
+Type: Cardiology Consultation
+
+SUMMARY:
+Routine cardiology consultation performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Blood Pressure: 112/77 mmHg
+- Heart Rate: 85 bpm
+- ECG: Normal findings
+- Echocardiogram: Normal ejection fraction
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+
+Report prepared by: Dr. Jennifer Williams
+Date: 2024-10-02",AI Analysis: Patient shows stable parameters. Follow-up recommended,Dr. Jennifer Williams
+R007,P003,2024-09-28,Primary Care,Radiology Report,Routine radiology report performed. elevated values detected.,"Patient: William Miller (ID: P003)
+Date: 2024-09-28
+Provider: Dr. Jennifer Jones, Primary Care
+Type: Radiology Report
+
+SUMMARY:
+Routine radiology report performed. elevated values detected.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports improvement in symptoms
+- Medication adjustment may be necessary
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+
+Report prepared by: Dr. Jennifer Jones
+Date: 2024-09-28",AI Analysis: Patient shows concerning results. Consider medication adjustment,Dr. Jennifer Jones
+R006,P003,2024-08-13,Primary Care,Blood Test,Routine blood test performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-08-13
+Provider: Dr. William Williams, Primary Care
+Type: Blood Test
+
+SUMMARY:
+Routine blood test performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Hemoglobin: 15.2 g/dL
+- White Blood Cell Count: 10.0 x10^9/L
+- Platelet Count: 214 x10^9/L
+- Glucose: 75.4 mg/dL
+- Cholesterol (Total): 151.6 mg/dL
+- HDL Cholesterol: 50.0 mg/dL
+- LDL Cholesterol: 112.8 mg/dL
+- Triglycerides: 156.9 mg/dL
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+
+Report prepared by: Dr. William Williams
+Date: 2024-08-13",AI Analysis: Patient shows normal indicators. Consider medication adjustment,Dr. William Williams
+R005,P003,2024-07-31,Hospital,Cardiology Consultation,Routine cardiology consultation performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-07-31
+Provider: Dr. Robert Wilson, Hospital
+Type: Cardiology Consultation
+
+SUMMARY:
+Routine cardiology consultation performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 88 bpm
+- ECG: Left ventricular hypertrophy
+- Echocardiogram: Normal ejection fraction
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+- Monitor symptoms and report any changes
+
+Report prepared by: Dr. Robert Wilson
+Date: 2024-07-31",AI Analysis: Patient shows improving parameters. Follow-up recommended,Dr. Robert Wilson
+R004,P003,2024-07-09,Primary Care,Gastroenterology Procedure,Routine gastroenterology procedure performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-07-09
+Provider: Dr. Mary Brown, Primary Care
+Type: Gastroenterology Procedure
+
+SUMMARY:
+Routine gastroenterology procedure performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports no complaints
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+
+Report prepared by: Dr. Mary Brown
+Date: 2024-07-09",AI Analysis: Patient shows normal results. No immediate action needed,Dr. Mary Brown
+R003,P003,2024-06-09,Lab,Radiology Report,Routine radiology report performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-06-09
+Provider: Dr. John Brown, Lab
+Type: Radiology Report
+
+SUMMARY:
+Routine radiology report performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- No significant changes since last examination
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+
+Report prepared by: Dr. John Brown
+Date: 2024-06-09",AI Analysis: Patient shows stable parameters. Follow-up recommended,Dr. John Brown
+R002,P003,2024-06-08,Hospital,Cardiology Consultation,Routine cardiology consultation performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-06-08
+Provider: Dr. James Williams, Hospital
+Type: Cardiology Consultation
+
+SUMMARY:
+Routine cardiology consultation performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Blood Pressure: 120/84 mmHg
+- Heart Rate: 67 bpm
+- ECG: Normal sinus rhythm
+- Echocardiogram: Normal cardiac function
+
+RECOMMENDATIONS:
+- No further action needed at this time
+- Monitor symptoms and report any changes
+
+Report prepared by: Dr. James Williams
+Date: 2024-06-08",AI Analysis: Patient shows stable values. Continued monitoring advised,Dr. James Williams
+R001,P003,2024-05-22,Lab,Neurology Assessment,Routine neurology assessment performed. all results within normal ranges.,"Patient: William Miller (ID: P003)
+Date: 2024-05-22
+Provider: Dr. James Smith, Lab
+Type: Neurology Assessment
+
+SUMMARY:
+Routine neurology assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- No significant changes since last examination
+
+RECOMMENDATIONS:
+- No further action needed at this time
+- Monitor symptoms and report any changes
+
+Report prepared by: Dr. James Smith
+Date: 2024-05-22",AI Analysis: Patient shows improving parameters. Continued monitoring advised,Dr. James Smith

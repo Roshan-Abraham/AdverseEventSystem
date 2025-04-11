@@ -1,0 +1,19 @@
+date,event_type,description,condition,severity,healthcare_provider
+2019-05-17,Diagnosis,Initial diagnosis of Asthma,Asthma,Mild,Dr. Jones
+2019-10-08,Medication Change,Adjusted medication regimen for Asthma,Asthma,Mild,Dr. Johnson
+2020-02-20,Treatment,New treatment initiated for Asthma,Asthma,Mild,Dr. Smith
+2020-04-18,Diagnosis,Initial diagnosis of Diabetes Type 2,Diabetes Type 2,Moderate,Dr. Brown
+2020-04-26,Flare-up,Experienced worsening of Asthma symptoms,Asthma,Moderate,Dr. Brown
+2020-06-29,Hospitalization,Hospitalized due to complications from Asthma,Asthma,Severe,Dr. Miller
+2020-09-06,Medication Change,Adjusted medication regimen for Diabetes Type 2,Diabetes Type 2,Moderate,Dr. Williams
+2020-10-22,Flare-up,Experienced worsening of Asthma symptoms,Asthma,Severe,Dr. Smith
+2020-12-08,Specialist Consultation,Consultation with specialist regarding Asthma,Asthma,Severe,Dr. Davis
+2021-02-06,Hospitalization,Hospitalized due to complications from Diabetes Type 2,Diabetes Type 2,Severe,Dr. Johnson
+2021-03-20,Medication Change,Adjusted medication regimen for Diabetes Type 2,Diabetes Type 2,Severe,Dr. Williams
+2021-04-14,Hospitalization,Hospitalized due to complications from Asthma,Asthma,Severe,Dr. Garcia
+2021-05-17,Flare-up,Experienced worsening of Diabetes Type 2 symptoms,Diabetes Type 2,Severe,Dr. Miller
+2021-08-14,Specialist Consultation,Consultation with specialist regarding Diabetes Type 2,Diabetes Type 2,Severe,Dr. Johnson
+2021-08-30,Specialist Consultation,Consultation with specialist regarding Asthma,Asthma,Severe,Dr. Smith
+2021-09-15,Hospitalization,Hospitalized due to complications from Diabetes Type 2,Diabetes Type 2,Severe,Dr. Smith
+2021-11-24,Medication Change,Adjusted medication regimen for Diabetes Type 2,Diabetes Type 2,Severe,Dr. Williams
+2022-01-28,Treatment,New treatment initiated for Diabetes Type 2,Diabetes Type 2,Moderate,Dr. Miller

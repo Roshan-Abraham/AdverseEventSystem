@@ -1,0 +1,16 @@
+id,patient_id,date,name,profession,comment,topic
+C015,P004,2025-03-31 04:35:54,Daniel Taylor,Physical Therapist,Recommended lifestyle modifications to support treatment goals.,patient concerns
+C014,P004,2025-02-26 04:35:54,Emily Thomas,Nurse,Recommended lifestyle modifications to support treatment goals.,therapy response
+C013,P004,2025-02-02 04:35:54,Emily Patel,Specialist,Recent lab results show improvement in key indicators. Encouraged continued adherence to treatment regimen.,test results
+C012,P004,2025-01-30 04:35:54,John Lee,Nurse,"New symptom reported, monitoring closely.",symptom management
+C011,P004,2025-01-29 04:35:54,Michael Taylor,Specialist,Prescribed new medication to better manage symptoms. Advised to monitor and report any new symptoms immediately.,medication adjustment
+C010,P004,2025-01-06 04:35:54,Sarah Harris,Specialist,Consider reducing dosage if improvement continues.,medication adjustment
+C009,P004,2025-01-04 04:35:54,Jennifer Patel,Specialist,"Slight elevation in certain markers, will retest in one month.",test results
+C008,P004,2024-12-28 04:35:54,Daniel Martinez,Nurse,Recommended lifestyle modifications to support treatment goals.,follow-up appointment
+C007,P004,2024-12-18 04:35:54,Dr. Davis,Doctor,Consider reducing dosage if improvement continues. Consider additional diagnostic testing if symptoms persist.,medication adjustment
+C006,P004,2024-12-13 04:35:54,Michael Anderson,Physical Therapist,Recommended lifestyle modifications to support treatment goals. Suggested consultation with specialist.,therapy response
+C005,P004,2024-12-12 04:35:54,David Anderson,Pharmacist,Coordinating care with specialists for comprehensive management.,follow-up appointment
+C004,P004,2024-12-08 04:35:54,Michael Thomas,Specialist,"Patient doing well overall, maintain current approach.",follow-up appointment
+C003,P004,2024-11-25 04:35:54,Michael Lee,Nurse,Coordinating care with specialists for comprehensive management.,lifestyle modifications
+C002,P004,2024-11-06 04:35:54,Jennifer Taylor,Pharmacist,Discussed concerns about long-term prognosis with patient. Suggested consultation with specialist.,lifestyle modifications
+C001,P004,2024-10-28 04:35:54,Jessica Thomas,Specialist,"Slight elevation in certain markers, will retest in one month.",test results

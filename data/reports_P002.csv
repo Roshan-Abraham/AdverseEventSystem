@@ -1,0 +1,192 @@
+id,patient_id,date,source,report_type,summary,content,nlp_summary,specialist
+R010,P002,2025-03-03,Lab,Orthopedic Evaluation,"bronchial assessment performed, HbA1c assessment performed. all results within normal ranges.","Patient: William Davis (ID: P002)
+Date: 2025-03-03
+Provider: Dr. Mary Davis, Lab
+Type: Orthopedic Evaluation
+
+SUMMARY:
+bronchial assessment performed, HbA1c assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- Medication adjustment may be necessary
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+
+Report prepared by: Dr. Mary Davis
+Date: 2025-03-03",AI Analysis: Patient shows normal indicators. Consider medication adjustment,Dr. Mary Davis
+R009,P002,2025-02-05,Hospital,Endocrinology Follow-up,"wheezing assessment performed, insulin resistance assessment performed. all results within normal ranges.","Patient: William Davis (ID: P002)
+Date: 2025-02-05
+Provider: Dr. Mary Johnson, Hospital
+Type: Endocrinology Follow-up
+
+SUMMARY:
+wheezing assessment performed, insulin resistance assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- No significant changes since last examination
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+
+Report prepared by: Dr. Mary Johnson
+Date: 2025-02-05",AI Analysis: Patient shows concerning values. Consider medication adjustment,Dr. Mary Johnson
+R008,P002,2024-11-27,Lab,Gastroenterology Procedure,"inhaler assessment performed, insulin resistance assessment performed. all results within normal ranges.","Patient: William Davis (ID: P002)
+Date: 2024-11-27
+Provider: Dr. Patricia Williams, Lab
+Type: Gastroenterology Procedure
+
+SUMMARY:
+inhaler assessment performed, insulin resistance assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+
+Report prepared by: Dr. Patricia Williams
+Date: 2024-11-27",AI Analysis: Patient shows concerning values. No immediate action needed,Dr. Patricia Williams
+R007,P002,2024-11-06,Specialist,Radiology Report,"bronchial assessment performed, insulin resistance assessment performed. all results within normal ranges.","Patient: William Davis (ID: P002)
+Date: 2024-11-06
+Provider: Dr. William Williams, Specialist
+Type: Radiology Report
+
+SUMMARY:
+bronchial assessment performed, insulin resistance assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Medication adjustment may be necessary
+
+RECOMMENDATIONS:
+- No further action needed at this time
+
+Report prepared by: Dr. William Williams
+Date: 2024-11-06",AI Analysis: Patient shows stable values. Continued monitoring advised,Dr. William Williams
+R006,P002,2024-09-28,Primary Care,Dermatology Examination,bronchial assessment performed. all results within normal ranges.,"Patient: William Davis (ID: P002)
+Date: 2024-09-28
+Provider: Dr. Linda Miller, Primary Care
+Type: Dermatology Examination
+
+SUMMARY:
+bronchial assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- No further action needed at this time
+- Maintain healthy diet and exercise
+
+Report prepared by: Dr. Linda Miller
+Date: 2024-09-28",AI Analysis: Patient shows normal indicators. No immediate action needed,Dr. Linda Miller
+R005,P002,2024-09-04,Hospital,Dermatology Examination,respiratory assessment performed. all results within normal ranges.,"Patient: William Davis (ID: P002)
+Date: 2024-09-04
+Provider: Dr. John Brown, Hospital
+Type: Dermatology Examination
+
+SUMMARY:
+respiratory assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- Adjust medication as prescribed
+
+Report prepared by: Dr. John Brown
+Date: 2024-09-04",AI Analysis: Patient shows normal values. Follow-up recommended,Dr. John Brown
+R004,P002,2024-07-25,Specialist,Dermatology Examination,diabetic assessment performed. all results within normal ranges.,"Patient: William Davis (ID: P002)
+Date: 2024-07-25
+Provider: Dr. Linda Williams, Specialist
+Type: Dermatology Examination
+
+SUMMARY:
+diabetic assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports improvement in symptoms
+- No significant changes since last examination
+
+RECOMMENDATIONS:
+- Continue current treatment plan
+
+Report prepared by: Dr. Linda Williams
+Date: 2024-07-25",AI Analysis: Patient shows improving indicators. Follow-up recommended,Dr. Linda Williams
+R002,P002,2024-07-17,Hospital,Annual Physical,HbA1c assessment performed. concerning patterns detected.,"Patient: William Davis (ID: P002)
+Date: 2024-07-17
+Provider: Dr. Jennifer Johnson, Hospital
+Type: Annual Physical
+
+SUMMARY:
+HbA1c assessment performed. concerning patterns detected.
+
+DETAILED FINDINGS:
+- Height: 181.2 cm
+- Weight: 56.7 kg
+- BMI: 17.3
+- Blood Pressure: 141/72 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 19 breaths/min
+- Temperature: 37.2 °C
+
+RECOMMENDATIONS:
+- Adjust medication as prescribed
+
+Report prepared by: Dr. Jennifer Johnson
+Date: 2024-07-17",AI Analysis: Patient shows concerning parameters. Consider medication adjustment,Dr. Jennifer Johnson
+R003,P002,2024-07-17,Lab,Annual Physical,HbA1c assessment performed. all results within normal ranges.,"Patient: William Davis (ID: P002)
+Date: 2024-07-17
+Provider: Dr. Mary Brown, Lab
+Type: Annual Physical
+
+SUMMARY:
+HbA1c assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Height: 181.2 cm
+- Weight: 56.7 kg
+- BMI: 17.3
+- Blood Pressure: 140/78 mmHg
+- Heart Rate: 69 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 36.7 °C
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Consider consultation with specialist
+
+Report prepared by: Dr. Mary Brown
+Date: 2024-07-17",AI Analysis: Patient shows concerning indicators. No immediate action needed,Dr. Mary Brown
+R001,P002,2024-05-17,Specialist,Radiology Report,"bronchial assessment performed, glucose assessment performed. all results within normal ranges.","Patient: William Davis (ID: P002)
+Date: 2024-05-17
+Provider: Dr. Robert Johnson, Specialist
+Type: Radiology Report
+
+SUMMARY:
+bronchial assessment performed, glucose assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Complete prescribed diagnostic tests
+
+Report prepared by: Dr. Robert Johnson
+Date: 2024-05-17",AI Analysis: Patient shows concerning results. Consider medication adjustment,Dr. Robert Johnson

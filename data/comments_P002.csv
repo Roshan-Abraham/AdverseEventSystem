@@ -1,0 +1,16 @@
+id,patient_id,date,name,profession,comment,topic
+C015,P002,2025-03-30 04:35:54,Jessica Thomas,Physical Therapist,Recommended lifestyle modifications to support treatment goals. Recommend follow-up in 3 months.,follow-up appointment
+C014,P002,2025-03-22 04:35:54,Michael Lee,Physical Therapist,"Slight elevation in certain markers, will retest in one month. Consider additional diagnostic testing if symptoms persist.",test results
+C013,P002,2025-03-11 04:35:54,Emily Martinez,Nurse,Discussed concerns about long-term prognosis with patient. Encouraged continued adherence to treatment regimen.,recovery progress
+C012,P002,2025-03-06 04:35:54,Jessica White,Nurse,Discussed concerns about long-term prognosis with patient.,follow-up appointment
+C011,P002,2025-01-22 04:35:54,Dr. Williams,Doctor,Modified treatment approach based on latest research findings. Consider additional diagnostic testing if symptoms persist.,treatment plan
+C010,P002,2025-01-10 04:35:54,Sarah Patel,Physical Therapist,Recommended lifestyle modifications to support treatment goals. Suggested consultation with specialist.,follow-up appointment
+C009,P002,2024-12-29 04:35:54,Emily Lee,Nurse,Discussed concerns about long-term prognosis with patient. Consider additional diagnostic testing if symptoms persist.,care coordination
+C008,P002,2024-12-26 04:35:54,Jennifer Patel,Nurse,Discussed concerns about long-term prognosis with patient.,follow-up appointment
+C007,P002,2024-12-15 04:35:54,Jessica Lee,Nurse,Recommended lifestyle modifications to support treatment goals. Recommend follow-up in 3 months.,lifestyle modifications
+C006,P002,2024-12-14 04:35:54,Dr. Brown,Doctor,"Patient doing well overall, maintain current approach.",therapy response
+C005,P002,2024-12-02 04:35:54,Jessica Anderson,Specialist,"Slight elevation in certain markers, will retest in one month.",test results
+C004,P002,2024-11-22 04:35:54,Jennifer Taylor,Physical Therapist,"Slight elevation in certain markers, will retest in one month.",test results
+C003,P002,2024-11-20 04:35:54,John White,Physical Therapist,Prescribed new medication to better manage symptoms.,medication adjustment
+C002,P002,2024-10-26 04:35:54,Sarah Harris,Nurse,Considering alternative treatment options if no improvement by next visit. Advised to monitor and report any new symptoms immediately.,treatment plan
+C001,P002,2024-10-14 04:35:54,Sarah Martinez,Nurse,Recommended lifestyle modifications to support treatment goals. Advised to monitor and report any new symptoms immediately.,care coordination

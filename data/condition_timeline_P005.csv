@@ -1,0 +1,16 @@
+date,event_type,description,condition,severity,healthcare_provider
+2017-04-08,Diagnosis,Initial diagnosis of Diabetes Type 2,Diabetes Type 2,Severe,Dr. Garcia
+2017-05-20,Treatment,New treatment initiated for Diabetes Type 2,Diabetes Type 2,Severe,Dr. Smith
+2017-08-26,Follow-up,Routine follow-up for Diabetes Type 2,Diabetes Type 2,Severe,Dr. Williams
+2018-02-15,Follow-up,Routine follow-up for Diabetes Type 2,Diabetes Type 2,Severe,Dr. Johnson
+2018-06-11,Hospitalization,Hospitalized due to complications from Diabetes Type 2,Diabetes Type 2,Severe,Dr. Garcia
+2018-11-29,Hospitalization,Hospitalized due to complications from Diabetes Type 2,Diabetes Type 2,Severe,Dr. Smith
+2018-12-07,Diagnosis,Initial diagnosis of Hypertension,Hypertension,Moderate,Dr. Jones
+2019-02-07,Improvement,Noted improvement in Hypertension,Hypertension,Mild,Dr. Jones
+2019-04-05,Hospitalization,Hospitalized due to complications from Diabetes Type 2,Diabetes Type 2,Severe,Dr. Brown
+2019-05-10,Medication Change,Adjusted medication regimen for Hypertension,Hypertension,Mild,Dr. Garcia
+2019-08-23,Follow-up,Routine follow-up for Hypertension,Hypertension,Mild,Dr. Williams
+2019-11-05,Improvement,Noted improvement in Hypertension,Hypertension,Mild,Dr. Brown
+2019-12-29,Treatment,New treatment initiated for Hypertension,Hypertension,Mild,Dr. Garcia
+2020-04-15,Specialist Consultation,Consultation with specialist regarding Hypertension,Hypertension,Mild,Dr. Jones
+2020-06-13,Follow-up,Routine follow-up for Hypertension,Hypertension,Mild,Dr. Garcia

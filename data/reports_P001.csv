@@ -1,0 +1,203 @@
+id,patient_id,date,source,report_type,summary,content,nlp_summary,specialist
+R010,P001,2025-03-02,Specialist,Endocrinology Follow-up,"respiratory assessment performed, hypertension assessment performed. abnormal levels detected.","Patient: Sarah Clark (ID: P001)
+Date: 2025-03-02
+Provider: Dr. John Brown, Specialist
+Type: Endocrinology Follow-up
+
+SUMMARY:
+respiratory assessment performed, hypertension assessment performed. abnormal levels detected.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports improvement in symptoms
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+- Monitor symptoms and report any changes
+
+Report prepared by: Dr. John Brown
+Date: 2025-03-02",AI Analysis: Patient shows improving indicators. Continued monitoring advised,Dr. John Brown
+R009,P001,2025-02-11,Hospital,Gastroenterology Procedure,"levothyroxine assessment performed, sodium restriction assessment performed. elevated results detected.","Patient: Sarah Clark (ID: P001)
+Date: 2025-02-11
+Provider: Dr. William Wilson, Hospital
+Type: Gastroenterology Procedure
+
+SUMMARY:
+levothyroxine assessment performed, sodium restriction assessment performed. elevated results detected.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Medication adjustment may be necessary
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Consider consultation with specialist
+
+Report prepared by: Dr. William Wilson
+Date: 2025-02-11",AI Analysis: Patient shows improving indicators. Continued monitoring advised,Dr. William Wilson
+R008,P001,2025-01-18,Lab,Radiology Report,"inhaler assessment performed, TSH assessment performed, cardiovascular risk assessment performed. all results within normal ranges.","Patient: Sarah Clark (ID: P001)
+Date: 2025-01-18
+Provider: Dr. James Wilson, Lab
+Type: Radiology Report
+
+SUMMARY:
+inhaler assessment performed, TSH assessment performed, cardiovascular risk assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports no complaints
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+- Consider consultation with specialist
+
+Report prepared by: Dr. James Wilson
+Date: 2025-01-18",AI Analysis: Patient shows improving values. Follow-up recommended,Dr. James Wilson
+R007,P001,2024-12-01,Lab,Annual Physical,"inhaler assessment performed, metabolism assessment performed, sodium restriction assessment performed. all results within normal ranges.","Patient: Sarah Clark (ID: P001)
+Date: 2024-12-01
+Provider: Dr. William Brown, Lab
+Type: Annual Physical
+
+SUMMARY:
+inhaler assessment performed, metabolism assessment performed, sodium restriction assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Height: 158.2 cm
+- Weight: 70.4 kg
+- BMI: 28.1
+- Blood Pressure: 127/70 mmHg
+- Heart Rate: 89 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 37.0 °C
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+- Consider consultation with specialist
+
+Report prepared by: Dr. William Brown
+Date: 2024-12-01",AI Analysis: Patient shows improving parameters. No immediate action needed,Dr. William Brown
+R006,P001,2024-10-20,Specialist,Blood Test,"bronchial assessment performed, levothyroxine assessment performed, hypertension assessment performed. all results within normal ranges.","Patient: Sarah Clark (ID: P001)
+Date: 2024-10-20
+Provider: Dr. Robert Davis, Specialist
+Type: Blood Test
+
+SUMMARY:
+bronchial assessment performed, levothyroxine assessment performed, hypertension assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Hemoglobin: 13.4 g/dL
+- White Blood Cell Count: 9.9 x10^9/L
+- Platelet Count: 317 x10^9/L
+- Glucose: 87.9 mg/dL
+- Cholesterol (Total): 180.3 mg/dL
+- HDL Cholesterol: 72.5 mg/dL
+- LDL Cholesterol: 107.5 mg/dL
+- Triglycerides: 196.8 mg/dL
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+
+Report prepared by: Dr. Robert Davis
+Date: 2024-10-20",AI Analysis: Patient shows improving results. Continued monitoring advised,Dr. Robert Davis
+R005,P001,2024-07-14,Specialist,Neurology Assessment,"thyroid assessment performed, cardiovascular risk assessment performed. all results within normal ranges.","Patient: Sarah Clark (ID: P001)
+Date: 2024-07-14
+Provider: Dr. William Wilson, Specialist
+Type: Neurology Assessment
+
+SUMMARY:
+thyroid assessment performed, cardiovascular risk assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports no complaints
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+
+Report prepared by: Dr. William Wilson
+Date: 2024-07-14",AI Analysis: Patient shows improving results. Follow-up recommended,Dr. William Wilson
+R004,P001,2024-07-04,Specialist,Cardiology Consultation,"respiratory assessment performed, metabolism assessment performed. concerning results detected.","Patient: Sarah Clark (ID: P001)
+Date: 2024-07-04
+Provider: Dr. Robert Wilson, Specialist
+Type: Cardiology Consultation
+
+SUMMARY:
+respiratory assessment performed, metabolism assessment performed. concerning results detected.
+
+DETAILED FINDINGS:
+- Blood Pressure: 141/85 mmHg
+- Heart Rate: 64 bpm
+- ECG: Left ventricular hypertrophy
+- Echocardiogram: Normal cardiac function
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+- Consider consultation with specialist
+
+Report prepared by: Dr. Robert Wilson
+Date: 2024-07-04",AI Analysis: Patient shows improving parameters. Consider medication adjustment,Dr. Robert Wilson
+R003,P001,2024-06-10,Lab,Radiology Report,"thyroid assessment performed, blood pressure assessment performed. all results within normal ranges.","Patient: Sarah Clark (ID: P001)
+Date: 2024-06-10
+Provider: Dr. James Wilson, Lab
+Type: Radiology Report
+
+SUMMARY:
+thyroid assessment performed, blood pressure assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports persistent symptoms
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Monitor symptoms and report any changes
+
+Report prepared by: Dr. James Wilson
+Date: 2024-06-10",AI Analysis: Patient shows improving indicators. No immediate action needed,Dr. James Wilson
+R002,P001,2024-06-08,Hospital,Blood Test,cardiovascular risk assessment performed. all results within normal ranges.,"Patient: Sarah Clark (ID: P001)
+Date: 2024-06-08
+Provider: Dr. James Johnson, Hospital
+Type: Blood Test
+
+SUMMARY:
+cardiovascular risk assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Hemoglobin: 13.0 g/dL
+- White Blood Cell Count: 7.3 x10^9/L
+- Platelet Count: 429 x10^9/L
+- Glucose: 120.1 mg/dL
+- Cholesterol (Total): 200.5 mg/dL
+- HDL Cholesterol: 53.6 mg/dL
+- LDL Cholesterol: 119.9 mg/dL
+- Triglycerides: 199.9 mg/dL
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+
+Report prepared by: Dr. James Johnson
+Date: 2024-06-08",AI Analysis: Patient shows improving results. No immediate action needed,Dr. James Johnson
+R001,P001,2024-06-04,Lab,Radiology Report,"respiratory assessment performed, metabolism assessment performed, blood pressure assessment performed. abnormal levels detected.","Patient: Sarah Clark (ID: P001)
+Date: 2024-06-04
+Provider: Dr. Linda Brown, Lab
+Type: Radiology Report
+
+SUMMARY:
+respiratory assessment performed, metabolism assessment performed, blood pressure assessment performed. abnormal levels detected.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports no complaints
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- No further action needed at this time
+- Complete prescribed diagnostic tests
+
+Report prepared by: Dr. Linda Brown
+Date: 2024-06-04",AI Analysis: Patient shows concerning values. No immediate action needed,Dr. Linda Brown

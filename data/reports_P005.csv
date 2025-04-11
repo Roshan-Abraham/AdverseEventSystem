@@ -1,0 +1,199 @@
+id,patient_id,date,source,report_type,summary,content,nlp_summary,specialist
+R010,P005,2025-04-10,Primary Care,Dermatology Examination,glucose assessment performed. all results within normal ranges.,"Patient: Elizabeth Johnson (ID: P005)
+Date: 2025-04-10
+Provider: Dr. Jennifer Miller, Primary Care
+Type: Dermatology Examination
+
+SUMMARY:
+glucose assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+- Maintain healthy diet and exercise
+
+Report prepared by: Dr. Jennifer Miller
+Date: 2025-04-10",AI Analysis: Patient shows stable parameters. Consider medication adjustment,Dr. Jennifer Miller
+R009,P005,2025-03-25,Primary Care,Gastroenterology Procedure,"blood pressure assessment performed, diabetic assessment performed. reduced levels detected.","Patient: Elizabeth Johnson (ID: P005)
+Date: 2025-03-25
+Provider: Dr. William Johnson, Primary Care
+Type: Gastroenterology Procedure
+
+SUMMARY:
+blood pressure assessment performed, diabetic assessment performed. reduced levels detected.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports no complaints
+- Further monitoring recommended
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+
+Report prepared by: Dr. William Johnson
+Date: 2025-03-25",AI Analysis: Patient shows normal indicators. Continued monitoring advised,Dr. William Johnson
+R008,P005,2024-10-16,Hospital,Annual Physical,Routine annual physical performed. all results within normal ranges.,"Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-10-16
+Provider: Dr. Patricia Brown, Hospital
+Type: Annual Physical
+
+SUMMARY:
+Routine annual physical performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Height: 173.9 cm
+- Weight: 72.3 kg
+- BMI: 23.9
+- Blood Pressure: 149/77 mmHg
+- Heart Rate: 84 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 37.3 °C
+
+RECOMMENDATIONS:
+- Adjust medication as prescribed
+- Consider consultation with specialist
+
+Report prepared by: Dr. Patricia Brown
+Date: 2024-10-16",AI Analysis: Patient shows improving results. No immediate action needed,Dr. Patricia Brown
+R007,P005,2024-09-26,Specialist,Gastroenterology Procedure,Routine gastroenterology procedure performed. all results within normal ranges.,"Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-09-26
+Provider: Dr. Patricia Davis, Specialist
+Type: Gastroenterology Procedure
+
+SUMMARY:
+Routine gastroenterology procedure performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- No further action needed at this time
+
+Report prepared by: Dr. Patricia Davis
+Date: 2024-09-26",AI Analysis: Patient shows normal parameters. Consider medication adjustment,Dr. Patricia Davis
+R006,P005,2024-09-04,Hospital,Radiology Report,"sodium restriction assessment performed, HbA1c assessment performed. all results within normal ranges.","Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-09-04
+Provider: Dr. Mary Brown, Hospital
+Type: Radiology Report
+
+SUMMARY:
+sodium restriction assessment performed, HbA1c assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports improvement in symptoms
+- Improvement noted in condition
+
+RECOMMENDATIONS:
+- No further action needed at this time
+
+Report prepared by: Dr. Mary Brown
+Date: 2024-09-04",AI Analysis: Patient shows normal indicators. Follow-up recommended,Dr. Mary Brown
+R005,P005,2024-08-21,Hospital,Cardiology Consultation,blood pressure assessment performed. all results within normal ranges.,"Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-08-21
+Provider: Dr. Linda Miller, Hospital
+Type: Cardiology Consultation
+
+SUMMARY:
+blood pressure assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Blood Pressure: 110/90 mmHg
+- Heart Rate: 85 bpm
+- ECG: Normal findings
+- Echocardiogram: Mild left ventricular hypertrophy
+
+RECOMMENDATIONS:
+- No further action needed at this time
+- Complete prescribed diagnostic tests
+
+Report prepared by: Dr. Linda Miller
+Date: 2024-08-21",AI Analysis: Patient shows concerning parameters. Continued monitoring advised,Dr. Linda Miller
+R004,P005,2024-08-15,Hospital,Neurology Assessment,cardiovascular risk assessment performed. all results within normal ranges.,"Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-08-15
+Provider: Dr. William Davis, Hospital
+Type: Neurology Assessment
+
+SUMMARY:
+cardiovascular risk assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports mild discomfort
+- Medication adjustment may be necessary
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+
+Report prepared by: Dr. William Davis
+Date: 2024-08-15",AI Analysis: Patient shows stable values. Consider medication adjustment,Dr. William Davis
+R003,P005,2024-07-30,Lab,Blood Test,sodium restriction assessment performed. all results within normal ranges.,"Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-07-30
+Provider: Dr. William Williams, Lab
+Type: Blood Test
+
+SUMMARY:
+sodium restriction assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Hemoglobin: 13.9 g/dL
+- White Blood Cell Count: 8.0 x10^9/L
+- Platelet Count: 377 x10^9/L
+- Glucose: 129.0 mg/dL
+- Cholesterol (Total): 206.1 mg/dL
+- HDL Cholesterol: 75.5 mg/dL
+- LDL Cholesterol: 88.1 mg/dL
+- Triglycerides: 50.6 mg/dL
+
+RECOMMENDATIONS:
+- Follow up in 6 months
+
+Report prepared by: Dr. William Williams
+Date: 2024-07-30",AI Analysis: Patient shows concerning indicators. Follow-up recommended,Dr. William Williams
+R002,P005,2024-07-19,Lab,Blood Test,"sodium restriction assessment performed, insulin resistance assessment performed. all results within normal ranges.","Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-07-19
+Provider: Dr. Patricia Jones, Lab
+Type: Blood Test
+
+SUMMARY:
+sodium restriction assessment performed, insulin resistance assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Hemoglobin: 16.3 g/dL
+- White Blood Cell Count: 8.1 x10^9/L
+- Platelet Count: 318 x10^9/L
+- Glucose: 128.4 mg/dL
+- Cholesterol (Total): 160.7 mg/dL
+- HDL Cholesterol: 67.9 mg/dL
+- LDL Cholesterol: 145.7 mg/dL
+- Triglycerides: 172.3 mg/dL
+
+RECOMMENDATIONS:
+- Follow up in 3 months
+
+Report prepared by: Dr. Patricia Jones
+Date: 2024-07-19",AI Analysis: Patient shows normal results. Continued monitoring advised,Dr. Patricia Jones
+R001,P005,2024-06-17,Hospital,Endocrinology Follow-up,"sodium restriction assessment performed, HbA1c assessment performed. all results within normal ranges.","Patient: Elizabeth Johnson (ID: P005)
+Date: 2024-06-17
+Provider: Dr. Robert Johnson, Hospital
+Type: Endocrinology Follow-up
+
+SUMMARY:
+sodium restriction assessment performed, HbA1c assessment performed. all results within normal ranges.
+
+DETAILED FINDINGS:
+- Examination performed as per standard protocol
+- Patient reports improvement in symptoms
+- No significant changes since last examination
+
+RECOMMENDATIONS:
+- No further action needed at this time
+
+Report prepared by: Dr. Robert Johnson
+Date: 2024-06-17",AI Analysis: Patient shows improving results. No immediate action needed,Dr. Robert Johnson

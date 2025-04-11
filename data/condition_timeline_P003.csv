@@ -1,0 +1,22 @@
+date,event_type,description,condition,severity,healthcare_provider
+2017-01-11,Diagnosis,Initial diagnosis of Obesity,Obesity,Mild,Dr. Jones
+2017-06-07,Improvement,Noted improvement in Obesity,Obesity,Mild,Dr. Williams
+2017-08-10,Improvement,Noted improvement in Obesity,Obesity,Mild,Dr. Miller
+2017-11-10,Medication Change,Adjusted medication regimen for Obesity,Obesity,Mild,Dr. Miller
+2018-03-15,Treatment,New treatment initiated for Obesity,Obesity,Mild,Dr. Brown
+2018-05-18,Flare-up,Experienced worsening of Obesity symptoms,Obesity,Moderate,Dr. Johnson
+2018-07-23,Follow-up,Routine follow-up for Obesity,Obesity,Moderate,Dr. Smith
+2018-09-12,Diagnosis,Initial diagnosis of Hypertension,Hypertension,Severe,Dr. Garcia
+2018-10-26,Follow-up,Routine follow-up for Hypertension,Hypertension,Severe,Dr. Williams
+2019-04-03,Hospitalization,Hospitalized due to complications from Hypertension,Hypertension,Severe,Dr. Miller
+2019-05-09,Flare-up,Experienced worsening of Hypertension symptoms,Hypertension,Severe,Dr. Johnson
+2019-10-19,Hospitalization,Hospitalized due to complications from Hypertension,Hypertension,Severe,Dr. Garcia
+2020-04-10,Treatment,New treatment initiated for Hypertension,Hypertension,Moderate,Dr. Miller
+2020-04-19,Diagnosis,Initial diagnosis of Coronary Artery Disease,Coronary Artery Disease,Moderate,Dr. Jones
+2020-05-26,Improvement,Noted improvement in Coronary Artery Disease,Coronary Artery Disease,Mild,Dr. Miller
+2020-06-22,Medication Change,Adjusted medication regimen for Hypertension,Hypertension,Moderate,Dr. Brown
+2020-10-03,Improvement,Noted improvement in Coronary Artery Disease,Coronary Artery Disease,Mild,Dr. Smith
+2020-10-11,Follow-up,Routine follow-up for Hypertension,Hypertension,Moderate,Dr. Garcia
+2020-11-07,Follow-up,Routine follow-up for Coronary Artery Disease,Coronary Artery Disease,Mild,Dr. Davis
+2021-03-06,Follow-up,Routine follow-up for Coronary Artery Disease,Coronary Artery Disease,Mild,Dr. Jones
+2021-08-17,Treatment,New treatment initiated for Coronary Artery Disease,Coronary Artery Disease,Mild,Dr. Garcia

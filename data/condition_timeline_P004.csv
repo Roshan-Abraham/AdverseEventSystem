@@ -1,0 +1,9 @@
+date,event_type,description,condition,severity,healthcare_provider
+2021-02-03,Diagnosis,Initial diagnosis of Asthma,Asthma,Severe,Dr. Davis
+2021-04-16,Flare-up,Experienced worsening of Asthma symptoms,Asthma,Severe,Dr. Smith
+2021-09-04,Treatment,New treatment initiated for Asthma,Asthma,Severe,Dr. Miller
+2022-01-12,Hospitalization,Hospitalized due to complications from Asthma,Asthma,Severe,Dr. Garcia
+2022-04-22,Hospitalization,Hospitalized due to complications from Asthma,Asthma,Severe,Dr. Smith
+2022-09-11,Specialist Consultation,Consultation with specialist regarding Asthma,Asthma,Severe,Dr. Smith
+2022-12-16,Treatment,New treatment initiated for Asthma,Asthma,Severe,Dr. Williams
+2023-03-12,Follow-up,Routine follow-up for Asthma,Asthma,Severe,Dr. Brown

@@ -1,0 +1,16 @@
+id,patient_id,date,name,profession,comment,topic
+C015,P001,2025-04-09 04:35:54,Emily Thomas,Nurse,"Symptoms stable, continuing current management approach. Encouraged continued adherence to treatment regimen.",symptom management
+C014,P001,2025-03-14 04:35:54,Michael Patel,Physical Therapist,"All values within normal ranges, continue monitoring periodically.",test results
+C013,P001,2025-03-12 04:35:54,Emily Lee,Pharmacist,"All values within normal ranges, continue monitoring periodically.",test results
+C012,P001,2025-02-20 04:35:54,Emily Anderson,Nurse,Coordinating care with specialists for comprehensive management.,patient concerns
+C011,P001,2025-02-10 04:35:54,Michael Lee,Nurse,Recommended lifestyle modifications to support treatment goals. Suggested consultation with specialist.,therapy response
+C010,P001,2025-01-25 04:35:54,Daniel Martinez,Physical Therapist,"All values within normal ranges, continue monitoring periodically. Suggested consultation with specialist.",test results
+C009,P001,2025-01-23 04:35:54,Dr. Miller,Doctor,"Patient doing well overall, maintain current approach. Consider additional diagnostic testing if symptoms persist.",patient concerns
+C008,P001,2025-01-10 04:35:54,Jennifer Anderson,Physical Therapist,Recommended lifestyle modifications to support treatment goals.,lifestyle modifications
+C007,P001,2025-01-07 04:35:54,Sarah Harris,Pharmacist,"Patient doing well overall, maintain current approach.",follow-up appointment
+C006,P001,2025-01-03 04:35:54,Sarah Patel,Physical Therapist,Coordinating care with specialists for comprehensive management.,recovery progress
+C005,P001,2024-12-10 04:35:54,Dr. Garcia,Doctor,Coordinating care with specialists for comprehensive management.,care coordination
+C004,P001,2024-11-22 04:35:54,Sarah White,Physical Therapist,Discussed concerns about long-term prognosis with patient. Consider additional diagnostic testing if symptoms persist.,follow-up appointment
+C003,P001,2024-11-19 04:35:54,Jessica Anderson,Pharmacist,Recommended lifestyle modifications to support treatment goals. Advised to monitor and report any new symptoms immediately.,follow-up appointment
+C002,P001,2024-11-02 04:35:54,Jennifer White,Specialist,"All values within normal ranges, continue monitoring periodically. Suggested consultation with specialist.",test results
+C001,P001,2024-10-30 04:35:54,John Lee,Pharmacist,"Treatment plan remains effective, no changes needed at this time.",treatment plan

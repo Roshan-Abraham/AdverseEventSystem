@@ -1,0 +1,16 @@
+id,patient_id,date,name,profession,comment,topic
+C015,P003,2025-03-27 04:35:54,David Lee,Specialist,"Patient doing well overall, maintain current approach. Advised to monitor and report any new symptoms immediately.",follow-up appointment
+C014,P003,2025-03-23 04:35:54,Emily Lee,Nurse,Coordinating care with specialists for comprehensive management. Advised to monitor and report any new symptoms immediately.,lifestyle modifications
+C013,P003,2025-02-13 04:35:54,Sarah Thomas,Specialist,"Patient doing well overall, maintain current approach. Advised to monitor and report any new symptoms immediately.",care coordination
+C012,P003,2025-02-11 04:35:54,Jessica Patel,Nurse,Discussed concerns about long-term prognosis with patient. Recommend follow-up in 3 months.,therapy response
+C011,P003,2025-02-09 04:35:54,Sarah White,Specialist,Added supplemental medication to address secondary symptoms. Suggested consultation with specialist.,medication adjustment
+C010,P003,2025-01-01 04:35:54,David Lee,Physical Therapist,Considering alternative treatment options if no improvement by next visit.,treatment plan
+C009,P003,2024-12-29 04:35:54,Dr. Williams,Doctor,"New symptom reported, monitoring closely.",symptom management
+C008,P003,2024-12-18 04:35:54,Daniel Taylor,Physical Therapist,Coordinating care with specialists for comprehensive management. Advised to monitor and report any new symptoms immediately.,recovery progress
+C007,P003,2024-12-08 04:35:54,John Harris,Specialist,Discussed concerns about long-term prognosis with patient. Advised to monitor and report any new symptoms immediately.,recovery progress
+C006,P003,2024-12-05 04:35:54,Sarah Patel,Nurse,Coordinating care with specialists for comprehensive management.,follow-up appointment
+C005,P003,2024-11-07 04:35:54,Daniel White,Pharmacist,"Treatment plan remains effective, no changes needed at this time.",treatment plan
+C004,P003,2024-11-03 04:35:54,Jennifer White,Nurse,"Patient doing well overall, maintain current approach. Recommend follow-up in 3 months.",patient concerns
+C003,P003,2024-10-27 04:35:54,David Taylor,Nurse,Prescribed new medication to better manage symptoms. Recommend follow-up in 3 months.,medication adjustment
+C002,P003,2024-10-22 04:35:54,John White,Pharmacist,Recommended lifestyle modifications to support treatment goals.,patient concerns
+C001,P003,2024-10-15 04:35:54,Michael Martinez,Nurse,Patient's medication dosage adjusted due to side effects.,medication adjustment

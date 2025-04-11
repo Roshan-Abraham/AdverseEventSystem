@@ -1,0 +1,16 @@
+id,patient_id,date,name,profession,comment,topic
+C015,P005,2025-04-02 04:35:54,Sarah Thomas,Nurse,Recommended lifestyle modifications to support treatment goals.,therapy response
+C014,P005,2025-04-01 04:35:54,Jessica Patel,Physical Therapist,Coordinating care with specialists for comprehensive management. Advised to monitor and report any new symptoms immediately.,follow-up appointment
+C013,P005,2025-03-20 04:35:54,Daniel Martinez,Physical Therapist,"New symptom reported, monitoring closely. Encouraged continued adherence to treatment regimen.",symptom management
+C012,P005,2025-03-05 04:35:54,Jennifer Harris,Specialist,Recent lab results show improvement in key indicators.,test results
+C011,P005,2025-02-24 04:35:54,Michael Lee,Specialist,Coordinating care with specialists for comprehensive management. Suggested consultation with specialist.,care coordination
+C010,P005,2025-01-14 04:35:54,Emily Taylor,Pharmacist,Patient's medication dosage adjusted due to side effects. Advised to monitor and report any new symptoms immediately.,medication adjustment
+C009,P005,2025-01-10 04:35:54,David Harris,Physical Therapist,Modified treatment approach based on latest research findings. Consider additional diagnostic testing if symptoms persist.,treatment plan
+C008,P005,2025-01-09 04:35:54,Jennifer Thomas,Physical Therapist,Patient reports improvement in primary symptoms since last visit.,symptom management
+C007,P005,2025-01-03 04:35:54,Sarah Anderson,Nurse,Symptom intensity has decreased following intervention.,symptom management
+C006,P005,2024-12-25 04:35:54,Dr. Jones,Doctor,"Treatment plan remains effective, no changes needed at this time. Suggested consultation with specialist.",treatment plan
+C005,P005,2024-11-14 04:35:54,Jennifer Martinez,Pharmacist,"Treatment plan remains effective, no changes needed at this time.",treatment plan
+C004,P005,2024-11-11 04:35:54,Dr. Brown,Doctor,"Patient doing well overall, maintain current approach.",patient concerns
+C003,P005,2024-11-10 04:35:54,Dr. Williams,Doctor,Patient's medication dosage adjusted due to side effects.,medication adjustment
+C002,P005,2024-10-27 04:35:54,Dr. Johnson,Doctor,"Patient doing well overall, maintain current approach. Recommend follow-up in 3 months.",care coordination
+C001,P005,2024-10-15 04:35:54,Emily White,Specialist,Recommended lifestyle modifications to support treatment goals. Encouraged continued adherence to treatment regimen.,care coordination
